@@ -1,3 +1,3 @@
 # react-boilerplate
 
-Companion repository to [Create a React app from scratch with Webpack and Babel](https://www.seanking.co.uk)
+| React skeleton starter with Webpack and Babel where something like Nextjs, Gatsby or CRA is too opinionated or bloated.
